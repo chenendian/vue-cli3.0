@@ -1,0 +1,112 @@
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-weight: normal;
+  font-size: 100%;
+}
+
+ul,
+ol,
+li {
+  list-style: none;
+}
+
+em,
+i,
+b {
+  font-style: normal;
+  font-weight: normal;
+}
+
+img {
+  border: 0;
+}
+
+input,
+button,
+img {
+  vertical-align: middle;
+}
+
+input:focus {
+  outline: 0;
+}
+
+a {
+  text-decoration: none;
+}
+
+* {
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+  margin: 0;
+  padding: 0;
+}
+
+input,
+textarea,
+button {
+  outline: none;
+}
+
+select {
+  background: none;
+}
+
+.left {
+  float: left;
+}
+
+.right {
+  float: right;
+}
+
+.clearfix:after {
+  content: ".";
+  display: block;
+  height: 0;
+  clear: both;
+  visibility: hidden;
+}
+
+.flex {
+  display: flex;
+}
+
+.flex-cc {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.flex-between {
+  display: flex;
+  justify-content: space-between;
+}
+
+.flex-vc {
+  display: flex;
+  align-items: center;
+}
+
+.flex-r {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.flex-wrap {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.flex-c {
+  display: flex;
+  justify-content: center;
+}
