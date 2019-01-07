@@ -28,7 +28,3 @@
 env.production   --生产环境下的配置项
 vue.config.js   --vue-cli3.0官网有描述就不在此赘叙
 3. 如有问题随时欢迎提问、也欢迎大神指出自己的遗漏与错误
-<<<<<<< HEAD
-
-=======
->>>>>>> eeabae19ce1a21d31fdc005c2d379a7bb0418efa
